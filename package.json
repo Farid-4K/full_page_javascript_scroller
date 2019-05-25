@@ -1,0 +1,8 @@
+{
+  "name": "full_page_javascript_scroller",
+  "version": "1.0.0",
+  "description": "Full page scroll",
+  "main": "index.js",
+  "author": "Farid Akhmedov",
+  "license": "MIT"
+}
